@@ -10,8 +10,19 @@
       border-width: 15px; 
       border-color: rgb(0, 247, 255);
       margin-top: 75px;
-      margin-left: 70px;
+      margin-left: 10px;
 
       background-color: darkred;
 
+}
+
+
+.botonA {
+    margin-left: 10px;
+    padding-left: 50px;
+    padding-right: 57px;
+}
+
+.botonB {
+      margin-left: 30px;
 }
